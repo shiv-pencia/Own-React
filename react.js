@@ -11,7 +11,7 @@ const reactElement = {
     
     type: 'a',
     props : {
-        href: 'http://google.com',
+        href: 'http://instagram.com',
         target: '_blank'
     },
     children: 'click here to visit Google with my react'
