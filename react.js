@@ -14,7 +14,7 @@ const reactElement = {
         href: 'http://instagram.com',
         target: '_blank'
     },
-    children: 'click here to visit Google with my react'
+    children: 'click here to visit Google '
     
 
 }
