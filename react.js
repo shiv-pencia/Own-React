@@ -3,7 +3,7 @@ function customRender(reactElement,container){
     const domElement = document.createElement(reactElement.type)
     domElement.innerHTML = reactElement.children
     for (const props in reactElement.props) {
-        if (props==='children') continue;
+        //if (props==='children') continue;
 
             domElement.setAttribute(props , reactElement.props[props])
             
